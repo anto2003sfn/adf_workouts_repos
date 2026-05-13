@@ -1,0 +1,15 @@
+{
+	"name": "adf-retail-studio",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2dd7566-b41a-4752-a14c-6592898971f9",
+		"tenantId": "7ff4645b-a007-4d7c-a366-82c20022bba4"
+	}
+}
