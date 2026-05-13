@@ -1108,7 +1108,7 @@
 			"type": "Microsoft.DataFactory/factories/linkedServices",
 			"apiVersion": "2018-06-01",
 			"properties": {
-				"description": "test LS",
+				"description": "tested successfully in dev",
 				"annotations": [],
 				"type": "AzureBlobStorage",
 				"typeProperties": {
