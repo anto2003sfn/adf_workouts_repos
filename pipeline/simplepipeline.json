@@ -101,6 +101,14 @@
 					"a",
 					"b"
 				]
+			},
+			"filename": {
+				"type": "string",
+				"defaultValue": "\"retail_trans\""
+			},
+			"Param1": {
+				"type": "int",
+				"defaultValue": 0
 			}
 		},
 		"variables": {
